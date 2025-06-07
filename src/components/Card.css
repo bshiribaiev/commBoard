@@ -1,0 +1,15 @@
+.cardInfo {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border: 1px solid;
+    padding: 1rem;
+    border-radius: 8px;
+    height: 90%;
+}
+
+.cardInfo button {
+    margin-top: auto;            
+    background-color: #f7f7f7;
+    border-radius: 8px;
+}

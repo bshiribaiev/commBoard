@@ -1,8 +1,11 @@
+import './Card.css'
+
 const Card = (props) => {
 
     return (
         <div className="cardInfo"> 
-            <h3>{props.name}</h3>
+            <h2>{props.name}</h2>
+            <p>{props.course}</p>
             <button>Access</button>
         </div>
     )
