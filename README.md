@@ -28,6 +28,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
+<iframe src="https://www.loom.com/embed/0301e8289a724a2c87903cb50e3921b5?sid=6eca5267-83ed-4005-9aa1-95bb88c2d210" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 <img src='https://cdn.loom.com/sessions/thumbnails/0301e8289a724a2c87903cb50e3921b5-7d1c8c7f1fd51948-full-play.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with Kap
