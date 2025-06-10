@@ -28,6 +28,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/eea38jV"><a href="//imgur.com/eea38jV"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <img src='[https://imgur.com/a/9UI45oM](https://imgur.com/a/eea38jV).gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
