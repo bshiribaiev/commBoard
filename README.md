@@ -2,7 +2,7 @@
 
 Submitted by: **Bekbol Shiribaiev**
 
-This web app: **This website is useful place where people can find useful resources for them to become software engineers!**
+This web app: **This website is a useful place for people to find resources on how to become a software engineer!**
 
 Time spent: **3** hours spent in total
 
