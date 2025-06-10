@@ -2,20 +2,20 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-import Card from './components/card'
+import Card from './components/Card'
 
 function App() {
   const resources = [
-    { name: "Codepath", course: "WEB 101" },
-    { name: "Codepath", course: "WEB 102" },
-    { name: "Codepath", course: "WEB 103" },
-    { name: "Codepath", course: "TIP 101" },
-    { name: "Codepath", course: "TIP 102" },
-    { name: "Codepath", course: "TIP 103" },
-    { name: "Coursera", course: "Machine Learning Specialization" },
-    { name: "CUNY Tech Prep", course: "WEB dev track" },
-    { name: "CUNY Tech Prep", course: "Data Science track" },
-    { name: "Break Through Tech", course: "AI & ML Fellowship" },
+    { name: "Codepath", course: "WEB 101", link: "https://www.codepath.org/courses"},
+    { name: "Codepath", course: "WEB 102", link: "https://www.codepath.org/courses" },
+    { name: "Codepath", course: "WEB 103", link: "https://www.codepath.org/courses"},
+    { name: "Codepath", course: "TIP 101", link: "https://www.codepath.org/courses"},
+    { name: "Codepath", course: "TIP 102", link: "https://www.codepath.org/courses"},
+    { name: "Codepath", course: "TIP 103", link: "https://www.codepath.org/courses"},
+    { name: "Coursera", course: "Machine Learning Specialization", link: "https://www.coursera.org/learn/machine-learning" },
+    { name: "CUNY Tech Prep", course: "WEB dev track", link: "https://cunytechprep.org/"},
+    { name: "CUNY Tech Prep", course: "Data Science track", link: "https://cunytechprep.org/"},
+    { name: "Break Through Tech", course: "AI & ML Fellowship", link: "https://www.breakthroughtech.org/programs/admissions/"},
   ];
   return (
     <>
@@ -23,7 +23,7 @@ function App() {
       <div className='cardGrid'> 
         {resources.map((res, index) => (
           <div className="wrapper"> 
-          <Card key={index} name={res.name} course={res.course} />
+          <Card key={index} name={res.name} course={res.course} link={res.link}/>
           </div> 
         ))}
       </div>

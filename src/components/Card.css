@@ -6,10 +6,16 @@
     padding: 1rem;
     border-radius: 8px;
     height: 90%;
+    background-color: white;
+}
+
+.cardInfo button:hover {
+    background: linear-gradient(135deg, #20C997, #6C5CE7);;
 }
 
 .cardInfo button {
     margin-top: auto;            
-    background-color: #f7f7f7;
+    background: #F1C40F;
     border-radius: 8px;
+    border: 1px solid;
 }

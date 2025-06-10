@@ -15,5 +15,9 @@
   gap: 2.5rem;
   padding: 2rem;
   align-items: stretch;
+  background: linear-gradient(135deg, #F1C40F, #00CED1);
+  border-radius: 15px;
 }
+
+
 
