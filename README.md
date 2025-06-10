@@ -25,10 +25,6 @@ The following **optional** features are implemented:
 - [X] The site is responsive for both desktop and mobile formats
   - [ ] Web app is shown in a mobile format
 
-The following **additional** features are implemented:
-
-* [ ] List anything else that you added to improve the site's functionality!
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
