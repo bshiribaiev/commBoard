@@ -2,6 +2,8 @@
 
 **This web app is a useful place for people to find resources on how to become a software engineer!**
 
+Built in React.
+
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
