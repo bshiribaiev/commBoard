@@ -1,29 +1,6 @@
-# Web Development Project 1 - *commBoard*
+# commBoard*
 
-Submitted by: **Bekbol Shiribaiev**
-
-This web app: **This website is a useful place for people to find resources on how to become a software engineer!**
-
-Time spent: **3** hours spent in total
-
-## Required Features
-
-The following **required** functionality is completed:
-
-- [X] **The app has a cohesive, unique theme for events or resources relevant to a specific community**
-  - [X] Header/title describing the theme is displayed
-- [X] **At least 10 unique events or resources are displayed in a responsive card format**
-  - [X] There are at least 10 cards displayed 
-  - [X] The cards should be displayed in an organized format (ex. a grid, or in one line)
-  - [X] Each card should include some information about the event or resource
-
-
-The following **optional** features are implemented:
-
-- [X] Buttons or links to a related resources are on each card component
-  - [X] All cards have buttons or links in addition to text
-- [X] The site is responsive for both desktop and mobile formats
-  - [ ] Web app is shown in a mobile format
+**This web app is a useful place for people to find resources on how to become a software engineer!**
 
 ## Video Walkthrough
 
